@@ -1,0 +1,24 @@
+
+
+Analysis 3 
+Wow , What's the most popular language?
+The easiest to learn Language
+html and css are not programming languages
+
+Analysis 4
+Unlike any other industry, the IT industry is full of dropout and people without degrees.
+There's a bunch of self taught programmers out there who are better than people with degrees,
+who have better portfolio than people degrees. 
+You see the reason why so many self taught programmers are drop outs because we are really disapointed with the courses to the field we are
+interested in because we learnt a lot more on our own programming and development than in academic courses.
+We feel like they are limiting our skills and abilities with academics when could be there out there working and building some real applications rather than 
+learning all these programming theories that we already know without building any real world applications.
+
+So my advice to those who wants to get in the IT industry, 
+don't limit yourself with academics, 
+learn how to make applications , build and work on your own applications. 
+There's a huge difference with between CS graduates who never made their own softwares before and a self taught programmers with a portfolio of apps.
+People without portfolio will have trouble getting jobs and will always limit themselves, people with really world experience, skills and portfolios wont have any trouble getting a job or being self employed.
+
+
+

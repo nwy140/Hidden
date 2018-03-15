@@ -1,0 +1,23 @@
+Gender	Age	Occupation Field Specialization	Programming Language Hours Spent On Coding Per Day Degree Necessary Written an App Before Websites Tried
+
+
+
+
+
+Occupation vs Degree Necessary //Category vs Bool // Different people from different occupation and background tend to have a different idea and opinion about whether you need a degree or not, 
+				but the reality is different
+
+
+Gender vs Field Specialization //Cateogry vs Category // Females tend to think about specializing in more demand fields, males tend to go for more innovative fields
+
+Age vs Programming Language // // 1/3 of the people who answered have no background experience of programming
+					// a lot of people have no prior knowledge and never explored on their own before thus have no idea and are limited by their lack of skills
+Occupation vs Programming Language
+
+Hours Spent Coding vs Programming Language // People who explored multiple languages are more comfortable and spend more time coding and working on their own projects
+
+Occupation vs Hours Spent Coding // People who aren't in academia have more time to work on their own projects thus have more time 
+				// students dont really code at all
+Gender vs Language // Majority of males knows how to program while females are more you know 
+
+Field Specialization vs Programming Language

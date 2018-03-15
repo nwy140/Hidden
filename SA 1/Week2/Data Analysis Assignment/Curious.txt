@@ -1,0 +1,25 @@
+
+
+How many participants knows how to program based on their Gender // // Category based on Category
+
+What programing language does most people know based on Age? // checklist // Category based on Number
+
+Where did they learn it based on programming language       //checklist // Category based on Category
+
+How much time is spent in programming based on what they are specialised in //Done // Category based on numbers
+
+How many participants wrote an app before based on their occupation // Category based on Category
+
+How many participants thinks a degree is neccessary to Enter the IT industry based on their Age //Category based on Number
+
+What websites are used to learn a particular language? // Category based on Category
+
+Number of People who agree that a degree is necessary to Enter IT Industry based on Age
+
+Remember to Calculate Average, Minimum And Maximum
+x axis top
+y axis left
+
+Average Min Max 
+
+
